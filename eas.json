@@ -6,7 +6,7 @@
       },
       "autoIncrement": true,
       "env": {
-        "EXPO_PUBLIC_API_URL": "https://your-api-url.com" // Placeholder, can be updated later if needed
+        "EXPO_PUBLIC_API_URL": "https://your-api-url.com"
       }
     }
   }
