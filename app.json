@@ -4,7 +4,7 @@
     "slug": "almohanaker-accounting",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/1000055265.jpg",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -24,8 +24,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a80e03d4-4a53-4a45-92e5-256080e71467"
+      }
     }
   }
 }
-
-
